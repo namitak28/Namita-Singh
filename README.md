@@ -3,25 +3,22 @@
 <h3 align="center">A passionate Automation QA Lead from India</h3>
 <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
 
+[![Linkedin Badge](https://img.shields.io/badge/-namita%20singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/namita-singh-9867b926/)](https://www.linkedin.com/in/namita-singh-9867b926/)
+ [![GitHub followers](https://img.shields.io/github/followers/3024k?label=Follow&style=social)](https://github.com/3024k/?tab=follow) 
+ [![Gmail Badge](https://img.shields.io/badge/-namitak28@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:namitak28@gmail.com)](mailto:namitak28@gmail.com) 
+ ![](https://visitor-badge.glitch.me/badge?page_id=3024k.3024k) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namitak28&label=Profile%20views&color=0e75b6&style=flat" alt="namitak28" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namitak28" alt="namitak28" /></a> </p>
 
-- 🔭 I’m currently working on **Computer vision,image processing**
-
+- 🔭 I’m currently working on **Computer vision,image processing,Lidar**
 - 🌱 I’m currently learning **AWS**
-
 - 👨‍💻 All of my projects are available at [git@github.com:namitak28/Jmeter.git](git@github.com:namitak28/Jmeter.git)
-
 - 💬 Ask me about **Software Quality Assurances **
-
-- 📫 How to reach me **namitak28@gmail.com**
-
 - 📄 Know about my experiences [https://docs.google.com/document/d/11XmKIGIMY0QGE1rAELs0XvWNBj4hRXfwuRVDXm2-Kn0/edit](https://docs.google.com/document/d/11XmKIGIMY0QGE1rAELs0XvWNBj4hRXfwuRVDXm2-Kn0/edit)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/namita-singh-9867b926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namita-singh-9867b926" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
