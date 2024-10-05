@@ -1,6 +1,7 @@
+[![MasterHead](https://user-images.githubusercontent.com/72491412/124944400-e75fde00-e02a-11eb-82b3-6b6d9af4c5c1.png)]
 <h1 align="center">Hi 👋, I'm Namita Singh</h1>
 <h3 align="center">A passionate Automation QA Lead from India</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16093268-Desktop-Animation">
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namitak28&label=Profile%20views&color=0e75b6&style=flat" alt="namitak28" /> </p>
 
@@ -12,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [git@github.com:namitak28/Jmeter.git](git@github.com:namitak28/Jmeter.git)
 
-- 💬 Ask me about **Selenium**
+- 💬 Ask me about **Software Quality Assurances **
 
 - 📫 How to reach me **namitak28@gmail.com**
 
