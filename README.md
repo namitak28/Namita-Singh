@@ -6,6 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namitak28" alt="namitak28" /></a> </p>
 
+- 🔭 I’m currently working on **Computer vision,image processing**
+
+- 🌱 I’m currently learning **AWS**
+
+- 👨‍💻 All of my projects are available at [git@github.com:namitak28/Jmeter.git](git@github.com:namitak28/Jmeter.git)
+
 - 💬 Ask me about **Selenium**
 
 - 📫 How to reach me **namitak28@gmail.com**
